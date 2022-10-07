@@ -9,7 +9,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
 class LugarViewModel (application: Application) : AndroidViewModel(application) {
-    private val lugarRepository: LugarRepository = TODO()
+    private val lugarRepository: LugarRepository
     val getLugares: LiveData<List<Lugar>>
 
     init {
