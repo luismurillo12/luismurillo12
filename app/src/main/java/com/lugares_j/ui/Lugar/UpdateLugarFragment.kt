@@ -66,7 +66,7 @@ class UpdateLugarFragment : Fragment() {
     private fun verWeb() {
 
         val valor = binding.etWeb.text.toString()
-        if(valor.isNotEmpty()){
+        if(valor.isNotEmpty()){// comentario
             val uri = "http://$valor&text="
             val intent = Intent(Intent.ACTION_VIEW, Uri.parse(uri))
             startActivity(intent)
