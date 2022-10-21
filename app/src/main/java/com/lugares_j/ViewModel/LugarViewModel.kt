@@ -18,15 +18,15 @@ class LugarViewModel (application: Application) : AndroidViewModel(application) 
         getLugares= lugarRepository.getLugares
     }
 
-    fun saveLugar(lugar: Lugar){
-        viewModelScope.launch(Dispatchers.IO){
+    fun saveLugar(lugar: Lugar) {
+        viewModelScope.launch(Dispatchers.IO) {
             lugarRepository.saveLugar(lugar)
         }
-
+       }
         fun deleteLugar(lugar:Lugar){
             viewModelScope.launch(Dispatchers.IO){
                 lugarRepository.deleteLugar(lugar)
             }
         }
-    }
+
 }
