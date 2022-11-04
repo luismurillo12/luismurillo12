@@ -44,7 +44,8 @@ class AddLugarFragment : Fragment() {
         val telefono = binding.etTelefono.text.toString() // optiene el dato digitado en el formulario
         val web = binding.etWeb.text.toString() // optiene el dato digitado en el formulario
 
-        val lugar = Lugar(0, nombre, correo, telefono, web, 0.0, 0.0, 0.0, "", "")
+        val lugar = Lugar("", nombre, correo, telefono, web,
+            0.0, 0.0, 0.0, "", "")
 
         //Se procede a guardar y registrar el lugar
         lugarViewModel.saveLugar(lugar)
