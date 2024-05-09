@@ -16,11 +16,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My tech](https://skillicons.dev/icons?mysql,mongodb)](https://skillicons.dev)
+[![](https://skillicons.dev/icons,cs,dotnet,js,nodejs,react,java,spring,bootstrap,css,html,npm)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
-[![](https://skillicons.dev/icons?cs,dotnet,js,nodejs,react,java,spring,bootstrap,css,html,npm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons,mysql,mongodb)](https://skillicons.dev)  
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
