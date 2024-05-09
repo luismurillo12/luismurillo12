@@ -31,7 +31,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/ask2001/](https://www.linkedin.com/in/luisnavarromurillo/)"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luisnavarromurillo/"><img src="https://img.shields.io/badge/-Luis Navarro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
