@@ -16,7 +16,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![](https://skillicons.dev/icons,cs,dotnet,js,nodejs,react,java,spring,bootstrap,css,html,npm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
 
 ### 🗃 &nbsp;Databases
 
