@@ -9,7 +9,7 @@
 👨‍💻 &nbsp;I am developer full stack.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science.\
-🌱 &nbsp;I'm on track for learning about Node Js, AWS and Azure.\
+🌱 &nbsp;I'm on track for learning about Node Js, AWS and Azure.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
