@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am developer full stack.\
+👨‍💻 &nbsp;I'm full stack developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science.\
 🌱 &nbsp;I'm on track for learning about Node Js, AWS and Azure.
@@ -23,7 +23,7 @@
 [![](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)  
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Version Control & Tools 
 
 [![](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,flutter&perline=3)](https://skillicons.dev)  
 
